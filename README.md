@@ -8,4 +8,5 @@ with multiple sites per host.
 - Deployment from Git repo
 - Composer commands
 - PHP Artisan commands (e.g. migrations)
+- Key generation / persistence
 - Multi-server setup
